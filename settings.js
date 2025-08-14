@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Trevor Bot',
+  packname: 'Sam Bot',
   author: '‎',
-  botName: "Trevor Bot",
-  botOwner: 'Trevor', // Your name
-  ownerNumber: '254745017772', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Sam Bot",
+  botOwner: 'Sam', // Your name
+  ownerNumber: '254715470169', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
